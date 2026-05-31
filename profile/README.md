@@ -58,7 +58,7 @@ Official SDKs and example repositories are available for the following languages
 
 | Language | Repository | Package |
 | --- | --- | --- |
-| C# | [AuthlyX-CS-Example](https://github.com/authlyx/AuthlyX-CS-Example) | — |
+| C# | [AuthlyX-CS-Example](https://github.com/authlyx/AuthlyX-CS-Example) | `dotnet add package AuthlyX` |
 | C++ | [AuthlyX-CPP-Example](https://github.com/authlyx/AuthlyX-CPP-Example) | — |
 | Python | [AuthlyX-PY-Example](https://github.com/authlyx/AuthlyX-PY-Example) | `pip install authlyx-api` |
 | JavaScript | [AuthlyX-JS-Example](https://github.com/authlyx/AuthlyX-JS-Example) | `npm install authlyx` |
