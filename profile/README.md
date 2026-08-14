@@ -34,14 +34,6 @@
 
 ---
 
-## Overview
-
-AuthlyX is a licensing and access control platform built for software developers and independent teams. Instead of maintaining your own auth infrastructure, AuthlyX handles the hard parts - device binding, license validation, session management, and audit logging - through a clean API and official SDKs.
-
-It's designed to integrate quickly and stay out of your way.
-
----
-
 ## Features
 
 - **License & user authentication** - Validate users and licenses against your application with a single API call
@@ -65,6 +57,16 @@ Official SDKs and example repositories are available for the following languages
 | Java | [AuthlyX-Java-Example](https://github.com/authlyx/AuthlyX-Java-Example) | - |
 | Go | [AuthlyX-GO-Example](https://github.com/authlyx/AuthlyX-GO-Example) | - |
 | Rust | [AuthlyX-Rust-Example](https://github.com/authlyx/AuthlyX-Rust-Example) | - |
+
+---
+
+## Bots
+
+Manage your AuthlyX apps directly from chat. Requires an Elite Key.
+
+| Platform | Repository | Runtime |
+| --- | --- | --- |
+| Discord | [AuthlyX-Discord-Bot](https://github.com/authlyx/AuthlyX-Discord-Bot) | Node.js 18+ |
 
 ---
 
